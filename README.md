@@ -7,4 +7,3 @@ Requirements: You need to have local web server to launch this project.
 Username : testmail@test.com 
 Password : admin
 
-Hiththatiyage T.S IT15078988
